@@ -37,7 +37,7 @@ Files structure is as follows:
     ├── training.py                         # Train AI model
     ├── training_v2.py                      # Train AI model (memory friendly)
     ├── testing_1.py                        # Test AI model for one time step
-    ├── testing_1.py                        # Test AI model for all time steps
+    ├── testing_2.py                        # Test AI model for all time steps
     └── ...
 └── readme.md                               # This file  
 ```
@@ -182,6 +182,7 @@ python testing_1.py
 ## License
 
 This code is provided for educational and research purposes.
+
 
 
 
