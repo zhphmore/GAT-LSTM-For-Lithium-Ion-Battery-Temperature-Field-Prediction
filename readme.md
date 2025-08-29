@@ -60,7 +60,7 @@ After mesh the battery package, we get 742,826 nodes and 3,013,738 elements.
 
 ### Thermal simulation
 
-We use ESCAAS as the thermal simulation tool: [www.escaas.com.cn](www.escaas.com.cn "ESCAAS").
+We use ESCAAS as the thermal simulation tool: [escaas.com.cn](escaas.com.cn "ESCAAS").
 
 The temperature fluctuations of lithium-ion batteries follow the thermodynamic equation. $T$ is the temperature. $t$ is the time. $\rho$ is the mass density. $C_p$ is the heat capacity. $k$ is the thermal conductivity. $S$ is the heat generation power per unit mass. $q_c$ is the thermal conductivity power. $q_g$ is the heat generation power.
 
@@ -74,7 +74,7 @@ $q_g$ has complicated correlation with temporal current $I$ and present temperat
 
 Due to confidentiality requirements, the download permission is restricted.
 
-Download dataset [here](https://disk.pku.edu.cn/link/AA9BCF06CEBB9A4546B0FA8897632A9D3C "Peking University Disk") (restricted). If you are not from Peking University, you cannot visit Peking University Disk.
+Download dataset [here](disk.pku.edu.cn/link/AA9BCF06CEBB9A4546B0FA8897632A9D3C "Peking University Disk") (restricted). If you are not from Peking University, you cannot visit Peking University Disk.
 
 ## AI model
 
@@ -182,6 +182,7 @@ python testing_1.py
 ## License
 
 This code is provided for educational and research purposes.
+
 
 
 
