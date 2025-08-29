@@ -54,7 +54,7 @@ Files structure is as follows:
 
 The lithium-ion battery package is as follows. 1 battery package contains 36 battery cells.
 
-<p align="center"><img src="./model/battery_1.png" alt="lithium-ion battery package" height="350"></p>
+<p align="center"><img src="./model/battery_1.png" alt="lithium-ion battery package" height="300"></p>
 
 After mesh the battery package, we get 742,826 nodes and 3,013,738 elements.
 
@@ -182,4 +182,5 @@ python testing_1.py
 ## License
 
 This code is provided for educational and research purposes.
+
 
