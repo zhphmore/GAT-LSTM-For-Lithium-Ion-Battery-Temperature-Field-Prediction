@@ -114,7 +114,9 @@ $$
 In this project, $k=4$. $B_0$ determines the ambient temperature, the unit of which is $K$. $(B_1, B_2, B_3)$ determines the coolant temperature in pipelines, the units of which are $(K, Km^{-1}, Km^{-2})$. In this project, the coolant temperature is regarded as only varying along x axis.
 
 $$
-T_{ambient} = B_0 \\
+T_{ambient} = B_0
+$$
+$$
 T_{coolent} = B_1 + B_2 x + B_3 x^2
 $$
 
@@ -180,3 +182,4 @@ python testing_1.py
 ## License
 
 This code is provided for educational and research purposes.
+
