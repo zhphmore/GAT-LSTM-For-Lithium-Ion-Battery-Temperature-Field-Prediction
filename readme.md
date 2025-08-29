@@ -14,7 +14,7 @@ Traditional methods use simulation software to solve the thermodynamic equation.
 
 We trained GAT-LSTM as AI surrogate model to solve the problem.
 
-This github resposiroy contains the precedent work for paper: *The Lithium-Ion Battery Temperature Field Prediction Model Based on CNN-Bi-LSTM-AM* [doi.org/10.3390/su17052125](doi.org/10.3390/su17052125 "The Lithium-Ion Battery Temperature Field Prediction Model Based on CNN-Bi-LSTM-AM")
+This github repository contains the precedent work for paper: *The Lithium-Ion Battery Temperature Field Prediction Model Based on CNN-Bi-LSTM-AM* [doi.org/10.3390/su17052125](doi.org/10.3390/su17052125 "The Lithium-Ion Battery Temperature Field Prediction Model Based on CNN-Bi-LSTM-AM")
 
 
 ## Overview
@@ -182,6 +182,7 @@ python testing_1.py
 ## License
 
 This code is provided for educational and research purposes.
+
 
 
 
