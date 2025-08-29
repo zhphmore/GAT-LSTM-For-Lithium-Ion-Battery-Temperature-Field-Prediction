@@ -103,7 +103,7 @@ $$
 \mathbf{I} = (I_0, I_1, ...,I_{m-1})^\top \in \mathbb{R}^{m}
 $$
 
-Define $h$ as the time step interval. The total time is $mh$. In this project, $m = 120$, $h=15 \, seconds$. The total time is $mh=1800 \, seconds$, namely half an hour.
+Define $h$ as the time step interval. The total time is $mh$. In this project, $m = 120$, $h=15 seconds$. The total time is $mh=1800 seconds$, namely half an hour.
 
 $\mathbf{B}$ is the boundary condition of battery. There are $k$ boundary parameters. In most cases, the coolant temperature in pipelines and the ambient temperature is the necessary temperature boundary condition.
 
@@ -182,6 +182,7 @@ python testing_1.py
 ## License
 
 This code is provided for educational and research purposes.
+
 
 
 
